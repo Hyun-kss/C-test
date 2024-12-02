@@ -1,0 +1,12 @@
+C:\Users\82105\OneDrive\Desktop\컴공자료\윈도우 프로그래밍\Window_Project\bin\Debug\Window_Project.exe.config
+C:\Users\82105\OneDrive\Desktop\컴공자료\윈도우 프로그래밍\Window_Project\bin\Debug\Window_Project.exe
+C:\Users\82105\OneDrive\Desktop\컴공자료\윈도우 프로그래밍\Window_Project\bin\Debug\Window_Project.pdb
+C:\Users\82105\OneDrive\Desktop\컴공자료\윈도우 프로그래밍\Window_Project\obj\Debug\Window_Project.csproj.AssemblyReference.cache
+C:\Users\82105\OneDrive\Desktop\컴공자료\윈도우 프로그래밍\Window_Project\obj\Debug\Window_Project.Properties.Resources.resources
+C:\Users\82105\OneDrive\Desktop\컴공자료\윈도우 프로그래밍\Window_Project\obj\Debug\Window_Project.csproj.GenerateResource.cache
+C:\Users\82105\OneDrive\Desktop\컴공자료\윈도우 프로그래밍\Window_Project\obj\Debug\Window_Project.csproj.CoreCompileInputs.cache
+C:\Users\82105\OneDrive\Desktop\컴공자료\윈도우 프로그래밍\Window_Project\obj\Debug\Window_Project.exe
+C:\Users\82105\OneDrive\Desktop\컴공자료\윈도우 프로그래밍\Window_Project\obj\Debug\Window_Project.pdb
+C:\Users\82105\OneDrive\Desktop\컴공자료\윈도우 프로그래밍\Window_Project\obj\Debug\Window_Project.TicketingChoice.resources
+C:\Users\82105\OneDrive\Desktop\컴공자료\윈도우 프로그래밍\Window_Project\obj\Debug\Window_Project.START_SCREEN.resources
+C:\Users\82105\OneDrive\Desktop\컴공자료\윈도우 프로그래밍\Window_Project\obj\Debug\Window_Project.SeatConcert.resources
